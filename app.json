@@ -15,18 +15,18 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+    "description": "CYPHER-X:~UEsDBBQAAAgIADmy21rGuAVCUwQAAHEHAAAKAAAAY3JlZHMuanNvbpVU25KiSBD9l3rVGLl7ieiIRRRFRBDF28Y+FFBgCRRYFCJO+O8b2NPT87A728tTUZWRefLkOfkdkByXyEQNGH0HBcU3yFB7ZE2BwAiMqyhCFHRBCBkEI5DYZDyBhpbkW3*f0as6Q8uqsVbqw7PN+WJspYfM1WbE0Ndv4NkFReWnOPhNwtPZuRzTqoY3I3JFpATQlu2ATZKYOJsC2Rc62W6183RZW2*g2WaEmGIST4szyhCFqYkaB2L6Nfjx4sAith0fiumDDvp6hbn6sJPjh172oorrWGmm8I3uFeL0a*BD46KusSHCM5N2C+Vg9GvX0LNd3dmeqm1HFrZTbo55YhDpHX6JY4JCI0SEYdZ8mfepFp32FWdunZDdNS7NTixpDH+xzf1l7dt61hvkvbJw813+NeAQzQb+RjCOMhqsiKoKh93+asCNbYl75HhV390Mr7aYBDPrV+AO*dBK8n945+asujTOKrSHW0uViot56t2iKzvUwW5gdGaz1bUcRO6smQdfg3+wDxIXO9y2yDUkCruOddUP+lTaSxaOxqV5dsLHzoNRclY*4UNW0d+hvHBx9FircZ4EBZ+puqTUk7PvdMiuqmeTTn896BSdghh3NVvEHVevF+Ul4C+uHIc9W+kvVCvQrEG0EPyHwkR8dE6eOVHfXh0lqDFCMOKfXUBRjEtGIcM5ed0JXQDD2wYFFLEXu+CRxCxwI1mrl0KuwFm1WhH5mN9oJ76dc*+4KIf8Or1p2M7fQBcUNA9QWaJwjkuW08ZCZQljVILRn391AUF39j63tprId0GEack8UhVpDsOPoX48wiDIK8I2DQm09oAoGHGf14gxTOKypbEikAZnfEPaGbISjCKYluhng4iiEIwYrdBP02p52PK+GLraZn5YgC7IXvPAIRgBQZb6kszzMj8YjCTpj*Jb3aaFRfGNIAa6IH2F8UNF4PmhIMqcLHByG9k+PH8ibBOGiEGclmAENNNMRUeaTw1071nGbKYasarFKvjs6EMZ79Trd*9G11VCVDkkqYdwgVW0ibReZlacghemnyKvtrcOP337hyStV*m4o1m7GMXnSl08SF9G*jHp9WxP2K0n9KGY970fmaVArUDy8DHISyXZo2UmZsHA6*eNoyS7HNeIqif1L*5uyjNPrd*aaiG64QD9WmyjSlFxPombYo2H*OZKpkI2qAV+fts8xj1d356LRlJNz6TM40NZqi7Fw*USndfv2dUvpf2qhvLxSu*2cvBw7JVUS0hdv2v25Zn0x67CLzm1s2p*I4xe1iewneB*z+4deCsx7tn9JcePZfIvhhy7wb6vcMtiUduHk7yb59djPE9IfZMxZXaON5l8SK1J8hi64Pn8qwuKFLIop1m74UhIcxyCLqB51WrWIFH+m2La2DC0H25NYcnUTx9scYZKBrMCjPi+zHOKoCj99yiH5sUclmcwAqI7PInDVtSNWhQbBtmHrYDafjPbB8+*AVBLAQIUAxQAAAgIADmy21rGuAVCUwQAAHEHAAAKAAAAAAAAAAAAAACkgQAAAABjcmVkcy5qc29uUEsFBgAAAAABAAEAOAAAAHsEAAAAAA==",
     "value": "",
     "required": false
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "254745115188",
     "required": true
   },
   "GITHUB_USERNAME": {
     "description": "You must set your github username to use the bot unless you're a premium user",
-    "value": "",
+    "value": "kelsey2024",
     "required": false
   },
    "BOT_PASSWORD": {
